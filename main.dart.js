@@ -77235,7 +77235,7 @@ s=A.pm(A.b([d,b,A.bx(i,A.bD("Leave Status",i,i,i,A.bh(i,i,new A.N(h),i,i,i,i,i,i
 r=A.cS(i,10,i)
 b=A.cS(i,i,10)
 d=A.bD("Welcome, "+J.bF($.Xg),i,i,i,A.bh(i,i,new A.N(h),i,i,i,i,i,i,i,i,12,i,i,B.F,i,i,!0,i,i,i,i,i,i,i,i),i,i)
-q=A.cS(i,i,60)
+q=A.cS(i,i,40)
 p=B.HO.h(0,A.KO(new A.c2(Date.now(),!1)))
 p.toString
 o=B.HL.h(0,A.hi(new A.c2(Date.now(),!1)))
