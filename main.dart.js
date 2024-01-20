@@ -77093,7 +77093,7 @@ a=a.b
 a===$&&A.a()
 a=a.b
 a===$&&A.a()
-f.a(a[p]).gd4().dR("Ram Bhawan",A.dO(B.U,14,null),new A.q(300,210,500,260),A.e8())
+f.a(a[p]).gd4().dR("Budh Bhawan",A.dO(B.U,14,null),new A.q(300,210,500,260),A.e8())
 d.a.y=!0
 p=d.gcT()
 a=d.gde()
@@ -77125,7 +77125,7 @@ a=a.b
 a===$&&A.a()
 a=a.b
 a===$&&A.a()
-f.a(a[p]).gd4().dR("Murali Manohar Pandey",A.dO(B.U,14,null),new A.q(300,250,500,300),A.e8())
+f.a(a[p]).gd4().dR("Rakhee and Meghana Tare",A.dO(B.U,14,null),new A.q(300,250,500,300),A.e8())
 d.a.y=!0
 p=d.gcT()
 a=d.gde()
